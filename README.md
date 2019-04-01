@@ -2,6 +2,7 @@
 
 ```
 PRISMA_MANAGEMENT_API_SECRET= <Your secret phrase for your prisma service>
+APP_SECRET= <Your secret phrase for JWT verification>
 
 PG_HOST= <The host your machine is listening on 'localhost' or 'docker.host.internal' or whatever>
 PG_DB= <The name of your postgresql database>
